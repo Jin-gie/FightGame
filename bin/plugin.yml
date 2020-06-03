@@ -1,0 +1,8 @@
+name: FightGame
+main: fr.jingie.fightgame.FightGame
+author: Jingie
+version: 1.0
+
+commands:
+  fightgame:
+    aliases: fg
