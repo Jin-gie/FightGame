@@ -1,2 +1,2 @@
 # FightGame
-A small Minecraft Pluging to implement simple duels
+A small Minecraft Pluging to implement simple duels or multiples ;)
